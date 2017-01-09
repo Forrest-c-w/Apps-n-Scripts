@@ -1,3 +1,6 @@
+#Require raw export from Kibana PAYMENTS query that includes 'Payment Date,' 'Cleared Date,' 'Provider ID,'
+#'Provider Name,' 'City,' 'State,' 'Zip,' and 'Count' fields.
+
 library(shiny)
 library(dplyr)
 library(anytime)
